@@ -7,7 +7,6 @@ Each project is placed in its own folder and includes simple examples such as ga
 
 ## 📁 Project Structure
 
-
 Each folder includes:
 
 - `src/` directory containing the Java source files  
@@ -20,7 +19,7 @@ Each folder includes:
 | Project Name | Description |
 |--------------|-------------|
 | **SayiTahminOyunu (Number Guessing Game)** | A classic number guessing game where the user tries to find a random number within limited attempts and optional time constraints. |
-| More coming soon… | Additional Java mini projects will be added over time. |
+| **More coming soon…** | Additional Java mini projects will be added over time. |
 
 ---
 
@@ -29,10 +28,13 @@ Each folder includes:
 1. Open the project folder you want to run  
 2. Navigate to the `src` directory  
 3. Compile the Java file:
-
-
+    ```bash
+    javac FileName.java
+    ```
 4. Run the program:
-
+    ```bash
+    java FileName
+    ```
 
 ---
 
@@ -66,4 +68,3 @@ If you have suggestions or find improvements, feel free to contribute or open an
 ---
 
 Happy coding! 🚀
-
