@@ -29,11 +29,11 @@ Each folder includes:
 2. Navigate to the `src` directory  
 3. Compile the Java file:
     ```bash
-    javac FileName.java
+    javac SayiTahminOyunu.java
     ```
 4. Run the program:
     ```bash
-    java FileName
+    java SayiTahminOyunu
     ```
 
 ---
