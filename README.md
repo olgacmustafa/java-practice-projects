@@ -13,12 +13,14 @@ Each project folder typically includes:
 - A dedicated `README.md` explaining the project in detail  
 
 Java-Mini-Projects/
+
 │
 ├── Number_Guessing/
 
 │ ├── src/
 
 │ └── README.md
+
 │
 ├── Adventure_Game/
 
