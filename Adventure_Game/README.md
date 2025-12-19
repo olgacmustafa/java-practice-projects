@@ -67,17 +67,17 @@ Adventure_Game/
 ## ▶️ How to Run (Command Prompt / Terminal)
 
 1. Navigate to the `src` directory:
-cd path/to/TextAdventureGame/src
+cd path/to/Adventure_Game/src
 
 
 
 2. Compile all Java files:
-javac com/mycompany/maceraoyunu/*.java
+Adventure_Game/src/*.java
 
 
 
 3. Run the game:
-java com.mycompany.maceraoyunu.Maceraoyunu
+Adventure_Game.src.Maceraoyunu
 
 
 
