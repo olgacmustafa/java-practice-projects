@@ -42,8 +42,7 @@ SayiTahminOyunu/
 │
 └── README.md
 
-yaml
-Kodu kopyala
+
 
 ---
 
@@ -61,20 +60,14 @@ Open the project using **IntelliJ IDEA** or **NetBeans** and run it directly.
 2. Navigate to the `src` directory:
 cd path/to/SayiTahminOyunu/src
 
-csharp
-Kodu kopyala
 
 3. Compile the Java file:
 javac com/mycompany/sayitahminoyunu/SayiTahminOyunu.java
 
-markdown
-Kodu kopyala
 
 4. Run the program:
 java com.mycompany.sayitahminoyunu.SayiTahminOyunu
 
-yaml
-Kodu kopyala
 
 ---
 
