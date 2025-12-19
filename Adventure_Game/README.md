@@ -38,7 +38,7 @@ This project was created for learning and practice purposes.
 
 ## 📂 Project Structure
 
-TextAdventureGame/
+Adventure_Game/
 │
 ├── src/
 │ └── com/
@@ -60,8 +60,7 @@ TextAdventureGame/
 │
 └── README.md
 
-yaml
-Kodu kopyala
+
 
 ---
 
@@ -70,20 +69,17 @@ Kodu kopyala
 1. Navigate to the `src` directory:
 cd path/to/TextAdventureGame/src
 
-css
-Kodu kopyala
+
 
 2. Compile all Java files:
 javac com/mycompany/maceraoyunu/*.java
 
-markdown
-Kodu kopyala
+
 
 3. Run the game:
 java com.mycompany.maceraoyunu.Maceraoyunu
 
-yaml
-Kodu kopyala
+
 
 ---
 
