@@ -2,7 +2,7 @@
 /**
  * YMÜ227 - Nesne Tabanlı Programlama
  * Sayı Tahmin Oyunu
- * Öğrenci: Muhyeddin Olğaç
+ * Öğrenci: Mustafa Olğaç
  * Öğrenci No: 240290008
  * Teslim Tarihi: 26.10.2025
  */
