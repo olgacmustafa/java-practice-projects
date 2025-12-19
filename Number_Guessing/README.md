@@ -1,102 +1,109 @@
-🎯 Number Guessing Game (SayiTahminOyunu)
+# 🎯 Number Guessing Game (SayiTahminOyunu)
 
-This project is a simple console-based Number Guessing Game developed using Java.
+This project is a simple **console-based Number Guessing Game** developed using **Java**.  
 The program generates a random number within a user-defined range, and the player tries to guess it within a limited number of attempts.
 
-This project was created as part of the YMÜ227 – Object-Oriented Programming course.
+This project was created as part of the **YMÜ227 – Object-Oriented Programming** course.
 
-📌 Project Information
+---
 
-Course: YMÜ227 – Object-Oriented Programming
+## 📌 Project Information
 
-Student: Mustafa Olğaç
+- **Course:** YMÜ227 – Object-Oriented Programming  
+- **Student:** Mustafa Olğaç  
+- **Student ID:** 240290008  
+- **Submission Date:** 26.10.2025  
+- **Programming Language:** Java  
+- **Platform:** Console (Terminal)
 
-Student ID: 240290008
+---
 
-Submission Date: 26.10.2025
+## 🕹️ Game Features
 
-Programming Language: Java
+- Random number generation  
+- User-defined:
+  - Minimum and maximum number range
+  - Number of attempts
+- Input validation and error handling  
+- User-friendly console messages  
+- Flexible Yes/No inputs (Y / y / E / e)
 
-Platform: Console (Terminal)
+---
 
-🕹️ Game Features
+## 📂 Project Structure
 
-Random number generation
-
-User-defined:
-
-Minimum and maximum number range
-
-Number of attempts
-
-Input validation and error handling
-
-User-friendly console messages
-
-Flexible Yes/No inputs (Y / y / E / e)
-
-📂 Project Structure
 SayiTahminOyunu/
 │
 ├── src/
-│   └── com/
-│       └── mycompany/
-│           └── sayitahminoyunu/
-│               └── SayiTahminOyunu.java
+│ └── com/
+│ └── mycompany/
+│ └── sayitahminoyunu/
+│ └── SayiTahminOyunu.java
 │
 └── README.md
 
-▶️ How to Run (Command Prompt / Terminal)
-📍 Option 1: Run with IDE (Recommended)
+yaml
+Kodu kopyala
 
-Use IntelliJ IDEA or NetBeans to open the project and run it directly.
+---
 
-📍 Option 2: Run via Command Line
+## ▶️ How to Run (Command Prompt / Terminal)
 
-Open Command Prompt or Terminal
+### Option 1: Run with an IDE (Recommended)
 
-Navigate to the src directory:
+Open the project using **IntelliJ IDEA** or **NetBeans** and run it directly.
 
+---
+
+### Option 2: Run via Command Line
+
+1. Open **Command Prompt** or **Terminal**
+2. Navigate to the `src` directory:
 cd path/to/SayiTahminOyunu/src
 
+csharp
+Kodu kopyala
 
-Compile the Java file:
-
+3. Compile the Java file:
 javac com/mycompany/sayitahminoyunu/SayiTahminOyunu.java
 
+markdown
+Kodu kopyala
 
-Run the program:
-
+4. Run the program:
 java com.mycompany.sayitahminoyunu.SayiTahminOyunu
 
-🧠 Purpose of the Project
+yaml
+Kodu kopyala
 
-The main goals of this project are to:
+---
 
-Practice Java fundamentals
+## 🧠 Purpose of the Project
 
-Learn how to use Scanner and Random classes
+The goals of this project are to:
 
-Improve understanding of loops and conditional statements
+- Practice Java fundamentals  
+- Learn how to use `Scanner` and `Random` classes  
+- Improve understanding of loops and conditional statements  
+- Practice exception handling using `try-catch`  
+- Build an interactive console application  
 
-Practice exception handling with try-catch
+---
 
-Build an interactive console application
+## 🚀 Possible Future Improvements
 
-🚀 Possible Future Improvements
+- Difficulty levels  
+- Time-limited game mode  
+- Score tracking system  
+- Replay option  
+- Graphical User Interface (GUI) using Swing or JavaFX  
 
-Difficulty levels
+---
 
-Time-limited game mode
+## 📬 Contact
 
-Score tracking system
+If you have suggestions or ideas for improvement, feel free to contribute or open an issue.
 
-Replay option
-
-Graphical User Interface (GUI) using Swing or JavaFX
-
-📬 Contact
-
-If you have suggestions or improvement ideas, feel free to contribute or open an issue.
+---
 
 Happy coding! 🚀☕
