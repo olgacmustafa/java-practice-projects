@@ -14,11 +14,11 @@ Each project folder typically includes:
 
 Java-Mini-Projects/
 │
-├── SayiTahminOyunu/
+├── Number_Guessing/
 │ ├── src/
 │ └── README.md
 │
-├── TextAdventureGame/
+├── Adventure_Game/
 │ ├── src/
 │ └── README.md
 │
@@ -32,8 +32,8 @@ Java-Mini-Projects/
 
 | Project Name | Description |
 |--------------|-------------|
-| **SayiTahminOyunu** <br>(Number Guessing Game) | A classic number guessing game where the user tries to find a randomly generated number within a limited number of attempts. |
-| **TextAdventureGame** <br>(Macera Oyunu) | A console-based text adventure game built using Object-Oriented Programming principles. The player explores rooms, interacts with NPCs, engages in dialogues, collects items, and faces enemies. |
+| **Number_Guessing** <br>(Sayı Tahmin Oyunu) | A classic number guessing game where the user tries to find a randomly generated number within a limited number of attempts. |
+| **Adventure_Game** <br>(Macera Oyunu) | A console-based text adventure game built using Object-Oriented Programming principles. The player explores rooms, interacts with NPCs, engages in dialogues, collects items, and faces enemies. |
 | **More coming soon…** | Additional Java mini projects will be added over time. |
 
 ---
