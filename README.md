@@ -53,10 +53,10 @@ Run the main class:
 
 
 java com.mycompany.projectname.MainClassName
-📌 Each project may have slightly different package names or main classes.
+##📌 Each project may have slightly different package names or main classes.
 Please refer to the project’s own README.md for exact instructions.
 
-🎯 Purpose of This Repository
+##🎯 Purpose of This Repository
 This repository is intended to:
 
 Practice Java programming through hands-on projects
@@ -69,7 +69,7 @@ Improve problem-solving and design skills
 
 Maintain a personal archive of Java projects
 
-💡 Future Additions
+##💡 Future Additions
 Planned or possible future projects include:
 
 Calculator
@@ -82,7 +82,7 @@ Data structures and basic algorithms
 
 Utility and simulation-based applications
 
-📞 Contact & Contributions
+##📞 Contact & Contributions
 Suggestions, feedback, and contributions are welcome.
 Feel free to open an issue or submit a pull request.
 
