@@ -17,14 +17,21 @@ Each project folder typically includes:
 Java-OOP-Projects/
 │
 ├── Number_Guessing/
+
 │ ├── src/
+
 │ └── README.md
+
 │
 ├── Adventure_Game/
+
 │ ├── src/
+
 │ └── README.md
+
 │
 └── README.md
+
 
 
 
