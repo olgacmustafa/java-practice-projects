@@ -13,7 +13,7 @@ Each project folder typically includes:
 
 - `src/` directory containing Java source files  
 - A dedicated `README.md` explaining the project in detail  
-
+```md
 Java-OOP-Projects/
 
 │
@@ -34,7 +34,7 @@ Java-OOP-Projects/
 └── README.md
 
 
-
+```
 
 ---
 
