@@ -48,7 +48,7 @@ The project includes:
 
 ## 📂 Project Structure
 ```bash
-ZincirMagaza/
+Chain-Store/
 │
 ├── src/
 │ ├── model/
