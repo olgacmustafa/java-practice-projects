@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox spacing="15"
+      xmlns:fx="http://javafx.com/fxml/1"
+      fx:controller="ui.MainMenuController">
+
+    <Label text="Zincir Mağaza Yönetim Sistemi"/>
+
+    <Button text="Satış Yap" onAction="#openSale"/>
+    <Button text="Ürün Yönetimi" onAction="#openProduct"/>
+    <Button text="Şube Yönetimi" onAction="#openBranch"/>
+    <Button text="Stok Ekle" onAction="#openStock"/>
+
+
+</VBox>

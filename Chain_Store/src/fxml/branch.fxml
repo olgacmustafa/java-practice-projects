@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox spacing="10"
+      xmlns:fx="http://javafx.com/fxml/1"
+      fx:controller="ui.BranchController">
+
+    <Label text="Şube Yönetimi"/>
+
+    <TextField fx:id="txtBranchName" promptText="Şube Adı"/>
+
+    <Button text="Şube Ekle" onAction="#handleAdd"/>
+
+    <TableView fx:id="tableBranches">
+        <columns>
+            <TableColumn fx:id="colBranchName" text="Şube Adı"/>
+        </columns>
+    </TableView>
+
+</VBox>

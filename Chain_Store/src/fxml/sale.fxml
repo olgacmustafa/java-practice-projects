@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<BorderPane xmlns:fx="http://javafx.com/fxml/1"
+            fx:controller="ui.SaleController">
+
+    <!-- ÜST KISIM -->
+    <top>
+        <VBox spacing="10">
+            <Label text="Satış Ekranı"/>
+
+            <ComboBox fx:id="cmbBranch" promptText="Şube seç"/>
+            <ComboBox fx:id="cmbProduct" promptText="Ürün seç"/>
+            <TextField fx:id="txtQuantity" promptText="Adet gir"/>
+
+            <Button text="Satış Yap" onAction="#handleClick"/>
+        </VBox>
+    </top>
+
+    <!-- ORTA KISIM (TABLO + BUTON) -->
+    <center>
+        <VBox spacing="10">
+
+            <TableView fx:id="tableSales">
+                <columns>
+                    <TableColumn fx:id="colBranch" text="Şube"/>
+                    <TableColumn fx:id="colProduct" text="Ürün"/>
+                    <TableColumn fx:id="colQuantity" text="Adet"/>
+                </columns>
+            </TableView>
+
+            <Button text="İade Et" onAction="#handleDelete"/>
+
+        </VBox>
+    </center>
+
+</BorderPane>

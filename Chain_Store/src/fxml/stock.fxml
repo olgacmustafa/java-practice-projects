@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox spacing="10"
+      xmlns:fx="http://javafx.com/fxml/1"
+      fx:controller="ui.StockController">
+
+    <Label text="Stok Ekle"/>
+
+    <ComboBox fx:id="cmbSube" promptText="Şube seç"/>
+    <ComboBox fx:id="cmbUrun" promptText="Ürün seç"/>
+    <TextField fx:id="txtMiktar" promptText="Miktar"/>
+
+    <Button text="Stok Ekle" onAction="#handleAdd"/>
+
+    <!-- TABLO -->
+    <TableView fx:id="tableStock">
+        <columns>
+            <TableColumn fx:id="colSube" text="Şube"/>
+            <TableColumn fx:id="colUrun" text="Ürün"/>
+            <TableColumn fx:id="colMiktar" text="Miktar"/>
+        </columns>
+    </TableView>
+
+    <!-- GÜNCELLE BUTONU -->
+    <Button text="Güncelle" onAction="#handleRefresh"/>
+
+</VBox>
