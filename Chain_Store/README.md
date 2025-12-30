@@ -53,10 +53,8 @@ ZincirMagaza/
 ├── src/
 │ ├── model/
 │ ├── ui/
-│
-├── fxml/
-├── lib/
-├── bin/
+│ ├── fxml/
+│ ├── main.java
 └── README.md
 
 ```
